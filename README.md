@@ -29,3 +29,7 @@ for all archives.
 > are cross-compiled and published untested — they are expected to work, but
 > treat them as best-effort and
 > [report anything broken](https://github.com/agrechin/glfetcher-releases/issues).
+
+## License
+
+Binaries are distributed under the [MIT License](LICENSE).
